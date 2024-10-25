@@ -2,7 +2,7 @@
 name = "reclaim-ai"
 version = "0.0.1"
 authors = [""]
-description = "Unofficial Reclaim.ai API based on the provided Python SDK."
+description = "Unofficial Reclaim.ai"
 # Override this license by providing a License Object in the OpenAPI.
 license = "Unlicense"
 edition = "2021"
